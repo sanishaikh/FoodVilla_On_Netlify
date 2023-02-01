@@ -1,0 +1,83 @@
+.cardStyle{
+    display: block;
+    align-items: center;
+    padding:15px;
+    background-color: rgb(232, 231, 231);
+    height: 19rem;
+    width: 13rem;
+}
+
+.mainDiv{
+    width: auto;
+    height: auto;
+    display: flex;
+    /* flex-wrap: wrap; */
+    margin: 1.5rem;
+}
+
+.imgStyle{
+
+    height: 12.5rem;
+    width: 12rem;
+}
+
+.divMain{
+    margin-left:1.7rem;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inpSearch{
+    height:3rem;
+    width: 24rem;
+    background-color: aliceblue;
+    margin: 2rem 1rem 0rem 29rem;
+    box-shadow: 2px black;
+    border-radius: 7px;
+
+}
+
+.btnSearch{
+    height:3rem;
+    width: 8rem;
+    background-color: rgb(242, 131, 61);
+    border-style: none;
+    border-radius: 7px;
+    
+
+}
+
+/* Div Shimmer */
+
+.ShimmerMainDiv{
+    margin-left:1.7rem;
+    width: auto;
+    height: auto;
+    display: flex;
+  
+}
+
+.ShimmerMain{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+    margin: 1.5rem;
+    
+}
+
+.ShimmercardStyle{
+    width: auto;
+    height: auto;
+    display: flex;
+    /* flex-wrap: wrap; */
+    margin-left: 1.5rem;
+    background-color: rgb(179, 176, 176);
+    height: 19rem;
+    width: 14rem;
+    margin: 2.5rem;
+
+}

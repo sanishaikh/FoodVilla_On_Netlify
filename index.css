@@ -1,0 +1,24 @@
+.nav-items > ul{
+    list-style: none;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.nav-items > ul > li{
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
+   
+}
+
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin:10px;
+    border: 1px solid black;
+}
+
+.logo{
+    width: 8rem;
+}

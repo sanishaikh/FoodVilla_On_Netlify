@@ -1,0 +1,95 @@
+.cardStyle {
+  height: 19rem;
+  width: 13rem;
+  background-color: #e8e7e7;
+  align-items: center;
+  padding: 15px;
+  display: block;
+}
+
+.mainDiv {
+  width: auto;
+  height: auto;
+  margin: 1.5rem;
+  display: flex;
+}
+
+.imgStyle {
+  height: 12.5rem;
+  width: 12rem;
+}
+
+.divMain {
+  width: auto;
+  height: auto;
+  flex-wrap: wrap;
+  margin-left: 1.7rem;
+  display: flex;
+}
+
+.inpSearch {
+  height: 3rem;
+  width: 24rem;
+  box-shadow: 2px black;
+  background-color: #f0f8ff;
+  border-radius: 7px;
+  margin: 2rem 1rem 0 29rem;
+}
+
+.btnSearch {
+  height: 3rem;
+  width: 8rem;
+  background-color: #f2833d;
+  border-style: none;
+  border-radius: 7px;
+}
+
+.ShimmerMainDiv {
+  width: auto;
+  height: auto;
+  margin-left: 1.7rem;
+  display: flex;
+}
+
+.ShimmerMain {
+  width: auto;
+  height: auto;
+  flex-wrap: wrap;
+  margin: 1.5rem;
+  display: flex;
+}
+
+.ShimmercardStyle {
+  width: auto;
+  height: auto;
+  height: 19rem;
+  width: 14rem;
+  background-color: #b3b0b0;
+  margin: 2.5rem;
+  display: flex;
+}
+
+.nav-items > ul {
+  justify-content: space-between;
+  list-style: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+  list-style-type: none;
+  display: flex;
+}
+
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 10px;
+  display: flex;
+}
+
+.logo {
+  width: 8rem;
+}
+
+/*# sourceMappingURL=index.029ae554.css.map */
